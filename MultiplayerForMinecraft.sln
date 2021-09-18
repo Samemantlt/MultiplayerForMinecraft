@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerForMinecraftNgrokRedirect", "MultiplayerForMinecraftNgrokRedirect\MultiplayerForMinecraftNgrokRedirect.csproj", "{D312002A-D4F7-462B-9497-5FE512CF9B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerForMinecraftCommon", "MultiplayerForMinecraftCommon\MultiplayerForMinecraftCommon.csproj", "{054E600D-1236-4034-B4FB-2B9F3326EC60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerForMinecraft", "MultiplayerForMinecraft\MultiplayerForMinecraft.csproj", "{E67947B0-35A8-4F54-920F-2D303C379042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D312002A-D4F7-462B-9497-5FE512CF9B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D312002A-D4F7-462B-9497-5FE512CF9B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D312002A-D4F7-462B-9497-5FE512CF9B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D312002A-D4F7-462B-9497-5FE512CF9B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054E600D-1236-4034-B4FB-2B9F3326EC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054E600D-1236-4034-B4FB-2B9F3326EC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054E600D-1236-4034-B4FB-2B9F3326EC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054E600D-1236-4034-B4FB-2B9F3326EC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67947B0-35A8-4F54-920F-2D303C379042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67947B0-35A8-4F54-920F-2D303C379042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67947B0-35A8-4F54-920F-2D303C379042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67947B0-35A8-4F54-920F-2D303C379042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B5F8B68-7A2B-4358-9891-78F2AB617EA0}
+	EndGlobalSection
+EndGlobal

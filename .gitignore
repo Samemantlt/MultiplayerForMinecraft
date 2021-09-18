@@ -1,0 +1,10 @@
+
+MultiplayerForMinecraft/bin/
+MultiplayerForMinecraft/obj/
+MultiplayerForMinecraftCommon/bin/
+MultiplayerForMinecraftCommon/obj/
+MultiplayerForMinecraftNgrokRedirect/
+packages/
+Logos/wide-logo.psd
+Logos/icon.psd
+.vs/
